@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GpoTNT]]></title>
+        <description><![CDATA[GpoTNT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 17:19:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Historia]]></title>
+            <description><![CDATA[<article><h1>Historia</h1><p>Grupo TNT Impacto Joven A.C. se conforma de un conjunto de proyectos y frentes alternativos para el bienestar y la asistencia social, apoyo económico, cultural, educativo y becantes, ecológico y de obras y servicios públicos, dentro de una Asociación Civil, con una trayectoria hacia niños, jóvenes, mujeres, ancianos y la familia, con “altos índices de vulnerabilidad”, esto primordialmente a través del esfuerzo de “JOVENES” en la atención y rescate integral del niño de la calle, la orientación vocacional y formación de valores en los adolescentes y jóvenes desprotegidos, la promoción de la cultura de la prevención ante las adicciones y la asistencia social en hospitales y psiquiátricos, reclusorios y correccionales, orfanatos y asilos. Así como en el fortalecimiento de la familia con Escuelas de Padres para sanear la desintegración familiar, el abuso y la violencia; Y en la asistencia psicológica y social para mujeres agredidas y enfermos. Todo esto para Transformar Nuestra Tierra –TNT y construir una sociedad saludable y productiva para el bienestar de todos los mexicanos, así como en otras naciones y el mundo necesitado.</p></article>]]></description>
+            <link>undefinedhistoria/index.html</link>
+            <guid isPermaLink="false">3dc31369-e18c-4a54-b314-b8639b370ba4</guid>
+            <pubDate>Mon, 04 Apr 2016 17:19:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
