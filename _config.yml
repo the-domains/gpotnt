@@ -1,0 +1,28 @@
+name: GpoTNT
+favicon: null
+layout_spectrum: 0.07962459861300886
+typography_spectrum: 0.7727884543128312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2700350424274802
+  lightness: 0.9398765347432345
+  saturation: 0.8422591830603778
+  rhythmicContrast: 0.10970410890877247
+purpose: []
