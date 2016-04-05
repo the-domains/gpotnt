@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Misión
-datePublished: '2016-04-05T16:18:07.929Z'
-dateModified: '2016-04-05T16:16:50.670Z'
+datePublished: '2016-04-05T16:18:24.937Z'
+dateModified: '2016-04-05T16:18:15.946Z'
 title: Misión / Visión
 author: []
 sourcePath: _posts/2016-04-05-transformar-nuestra-tierra-al-brindar-ayuda-de-impacto-socia.md
