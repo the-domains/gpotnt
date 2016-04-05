@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-05T16:13:25.895Z'
-dateModified: '2016-04-05T16:10:07.350Z'
-title: Misión
+description: Misión
+datePublished: '2016-04-05T16:16:23.419Z'
+dateModified: '2016-04-05T16:15:25.076Z'
+title: Misión / Visión
 author: []
 sourcePath: _posts/2016-04-05-transformar-nuestra-tierra-al-brindar-ayuda-de-impacto-socia.md
 published: true
