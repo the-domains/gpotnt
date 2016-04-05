@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Transformar Nuestra Tierra al brindar ayuda de impacto social a niños, jóvenes, mujeres, ancianos y familias, llevándoles un mensaje de renovación para una mejor calidad de vida, buscando el bienestar integral en cuerpo, alma y espíritu, mediante los valores del amor y la amistad, la fe, justicia y liderazgo.'
-datePublished: '2016-04-05T16:09:04.686Z'
-dateModified: '2016-04-05T16:07:45.943Z'
-title: ''
+description: ''
+datePublished: '2016-04-05T16:13:25.895Z'
+dateModified: '2016-04-05T16:10:07.350Z'
+title: Misión
 author: []
+sourcePath: _posts/2016-04-05-transformar-nuestra-tierra-al-brindar-ayuda-de-impacto-socia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-transformar-nuestra-tierra-al-brindar-ayuda-de-impacto-socia.md
-published: true
 url: transformar-nuestra-tierra-al-brindar-ayuda-de-impacto-socia/index.html
 _type: Article
 
