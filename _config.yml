@@ -1,6 +1,6 @@
 name: GpoTNT
 favicon: null
-layout_spectrum: 0.37075
+layout_spectrum: 0.48541
 typography_spectrum: 0.39898
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ce6836'
     - '#006a7d'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0.8125
   saturation: 0.6875
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
